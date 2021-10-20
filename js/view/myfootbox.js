@@ -8,7 +8,7 @@ Vue.component('footbox', {
         電話: <a href="https://www.ncut.edu.tw/ncut/phone/" target="_blank">(04)23924505 (分機表)</a>FAX:(04) 23923363 TANet 98110000 <br>
         <a href="https://web2.ncut.edu.tw/ezfiles/0/1000/img/949/878419923.pdf" target="_blank">個人資料保護安全政策 </a> | 
         <a href="https://web2.ncut.edu.tw/files/11-1000-2878.php" target="_blank">隱私權聲明</a> | 
-        <a href="https://web2.ncut.edu.tw/files/11-1000-5908.php" target="_blank">當事人行使權利方式及 抱怨申訴</a> | 
+        <!--<a href="https://web2.ncut.edu.tw/files/11-1000-5908.php" target="_blank">當事人行使權利方式及 抱怨申訴</a> |--> 
         <a href="https://web2.ncut.edu.tw/ezfiles/0/1000/img/949/204756527.pdf" target="_blank">個資法17條應公告事項</a>
         </article>
     </div>`,
